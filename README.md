@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze customer data to segment customers based on their purchasing behavior and optimize marketing strategies to increase customer retention and profitability. By performing clustering and RFM (Recency, Frequency, Monetary) analysis, we can identify the most valuable customer groups and suggest targeted marketing actions for each segment. Additionally, we build predictive models to further refine marketing strategies and create a real-time dashboard for tracking performance.
+This project aims to analyze customer data to segment customers based on their purchasing behavior and optimize marketing strategies to increase customer retention and profitability. By performing clustering and RFM (Recency, Frequency, Monetary) analysis, we can identify the most valuable customer groups and suggest targeted marketing actions for each segment. Additionally, I build predictive models to further refine marketing strategies and create a real-time dashboard for tracking performance.
 
 ### Key Objectives:
 - Segment customers based on behavior to identify different groups such as high-value customers or at-risk customers.
